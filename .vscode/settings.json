@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/cfe10498-2142-4faa-87c1-fba6b68da35d/AppServices/subscriptions/cfe10498-2142-4faa-87c1-fba6b68da35d/resourceGroups/cloud-shell-storage-southeastasia/providers/Microsoft.Web/sites/raspberrypiiot",
+    "appService.deploySubpath": "node-app"
+}
